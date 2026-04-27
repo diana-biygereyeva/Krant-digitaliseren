@@ -2,20 +2,6 @@
 
 Een Next.js-paginacomponent die een krantenartikel uit _De Standaard_ nabootst. De pagina toont het artikel **"Leidt AI-slop tot de dood van sociale media?"** van Dominique Deckmyn in een volledig opgemaakte, interactieve lay-out.
 
----
-
-## Vereisten
-
-| Vereiste | Versie           |
-| -------- | ---------------- |
-| Next.js  | 13+ (App Router) |
-| React    | 18+              |
-| Node.js  | 18+              |
-
-Externe afhankelijkheden buiten React/Next.js zijn er niet — de styling is volledig inline via een `<style>`-tag met CSS-variabelen.
-
----
-
 ## Installatie & gebruik
 
 1. Plaats `page.tsx` in een route-map van je Next.js App Router, bijvoorbeeld:
